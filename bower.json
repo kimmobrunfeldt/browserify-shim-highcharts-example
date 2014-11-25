@@ -1,0 +1,19 @@
+{
+  "name": "highcharts-browserify",
+  "version": "0.0.0",
+  "authors": [
+    "Kimmo Brunfeldt <kimmobrunfeldt@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "highcharts": "~4.0.4"
+  }
+}
